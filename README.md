@@ -9,6 +9,7 @@ I run high-volume Shopify catalogues. I combine **Claude, ChatGPT and Gemini** w
 - 🤖 AI content & image generation · prompt writing
 - 🐍 Python scraping with Requests & BeautifulSoup
 - 📊 Google Sheets / Excel trackers and client reports
+- 🔗 **Portfolio:** https://sajawal-dastagir.vercel.app
 - 🌍 **Open to full-time, visa-sponsored roles worldwide**: ready to relocate
 
 ### 🧰 Toolkit
