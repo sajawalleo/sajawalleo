@@ -28,6 +28,7 @@ I run high-volume Shopify catalogues. I combine **Claude, ChatGPT and Gemini** w
 | Project | What it shows |
 |---|---|
 | 🌐 [**Portfolio website**](https://github.com/sajawalleo/portfolio) | Work samples: Shopify bulk upload, AI content, client reports. Hand-coded HTML & CSS |
+| 🤖 [**ContentPilot AI**](https://github.com/sajawalleo/ContentPilot-AI) · [live](https://contentpilot-ai-ochre.vercel.app) | FastAPI app: upload a product CSV, get SEO titles, meta & HTML descriptions from OpenAI, Gemini or Claude |
 | 🐍 [**Shopify Product Scraper**](https://github.com/sajawalleo/shopify-product-scraper) | Python + BeautifulSoup scraper that outputs a Shopify-ready CSV |
 
 ### 📫 Contact
